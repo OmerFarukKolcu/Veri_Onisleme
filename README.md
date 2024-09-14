@@ -1,4 +1,4 @@
-Projede kullanılan yöntem, donanımlar ve yazılımlar:\n
+Projede kullanılan yöntem, donanımlar ve yazılımlar:
 Python programlama dili üzerinde :
 Pandas: Veri işlemesi ve analizi için oluşturulmuş python programlama dili kütüphanesi.
 Numpy: Python programlama dili için büyük, çok boyutlu dizileri ve matrisleri destekleyen, bu diziler üzerinde çalışacak üst düzey matematiksel işlevler ekleyen bir kitaplıktır.
